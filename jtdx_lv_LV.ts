@@ -5851,7 +5851,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../TCITransceiver.cpp" line="148"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkls</translation>
     </message>
     <message>
         <location filename="../TCITransceiver.cpp" line="149"/>
